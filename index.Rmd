@@ -1,0 +1,10 @@
+---
+title: "Joseph Severs"
+---
+
+Hello, Website!
+```{r}
+x <- (1:10)
+y <- (21:30)
+plot(x,y)
+```
