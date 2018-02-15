@@ -2,7 +2,7 @@
 title: "Joseph Severs"
 ---
 
-Hello, Website!
+Welcome!
 ```{r}
 x <- (1:10)
 y <- (21:30)
