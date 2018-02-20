@@ -1,5 +1,5 @@
 name: my-website
-output_dir: "."
+output_dir: '.'
 navbar:
   title: Joseph Severs
   left:
@@ -7,9 +7,12 @@ navbar:
     href: index.html
   - text: About
     href: about.html
+  - text: Output
+    href: research.html
 output:
   html_document:
     theme: united
-    highlight: kate
- 
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no
 

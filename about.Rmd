@@ -1,5 +1,8 @@
 ---
-title: "About This Website"
+title: 'About the Author'
 ---
 
-More about this website.
+<figure align = "middle">
+<img src= "058AE7DB-3A44-480E-9261-344D6DE2B692.JPG" style = "height:200px;">
+
+My name is Joseph Severs and I am currently in my Junior year at Appalachain State. I transferred here from North Greenville University of South Carolina. Growing up in High Point, North Carolina, Soccer became my passion and I decided to pursue a degree and play at the highest level. I am currently studying Secondary Math Education. I played college soccer for two years at North Greenville University before transferring to Appalachian State. I plan to graduate in May 2020 and teach highschool math, along with coach soccer either at the highschool or club level.

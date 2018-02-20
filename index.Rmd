@@ -1,10 +1,16 @@
 ---
-title: "Joseph Severs"
+title: "Welcome!"
 ---
 
-Welcome!
-```{r}
-x <- (1:10)
-y <- (21:30)
-plot(x,y)
-```
+
+This website is for a Data science class taken through Appalachian State University. This webiste is a representation of some of tools and different codes we have learned so far. Hope you enjoy.
+
+Such as:
+
+Links - [word](https://www.instagram.com/?hl=en)
+
+Headings - 
+
+#HELLO
+##Yellow
+###Go Pack!!
