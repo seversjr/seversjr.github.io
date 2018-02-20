@@ -7,7 +7,7 @@ This website is for a Data science class taken through Appalachian State Univers
 
 Such as:
 
-Links - [word](https://www.instagram.com/?hl=en)
+Links - [instagram](https://www.instagram.com/?hl=en)
 
 Headings - 
 
