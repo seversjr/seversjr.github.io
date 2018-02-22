@@ -7,7 +7,7 @@ navbar:
     href: index.html
   - text: About
     href: about.html
-  - text: Output
+  - text: Sports
     href: research.html
 output:
   html_document:
